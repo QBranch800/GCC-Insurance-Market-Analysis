@@ -7,11 +7,14 @@ with a deeper trend analysis of the UAE insurance market by product line.
 
 
 ## Setup
-This project uses a Python virtual environment. 
+This project uses Python 3.12 and a virtual environment.
 To reproduce it:
 - python3 -m venv venv
 - source venv/bin/activate
 - pip install -r requirements.txt
+
+This works on macOS, Linux and Windows. To install the exact versions used
+for the original analysis (macOS), use `pip install -r requirements-lock.txt` instead.
 
 
 ## Business Task
