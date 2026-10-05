@@ -1,21 +1,16 @@
-MIT License
+Copyright © 2026 QBranch800. All rights reserved.
 
-Copyright (c) 2026 QBranch80
+Permission is granted to download, install, run, and test this software for personal, educational, and evaluation purposes.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+You may inspect the source code, use the software, and experiment with it locally.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+You may not:
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+- claim authorship or ownership of the software, source code, documentation, design, or other original materials;
+- copy, redistribute, republish, sublicense, or sell the software or substantial portions of it;
+- use the software or substantial portions of its source code in another publicly distributed or commercial product without prior written permission;
+- remove, obscure, or alter any copyright, attribution, or authorship notices.
+
+All rights not expressly granted under this license are reserved by the copyright holder. Permission to use the software does not transfer any ownership rights in the software, source code, documentation, design, or other original materials.
+
+For permissions beyond those granted above, please contact the copyright holder.
